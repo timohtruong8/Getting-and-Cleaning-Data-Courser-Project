@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Courser-Project
+# Getting-and-Cleaning-Data-Course-Project
 
 > The Project is for Getting and Cleaning Data Course. The following are steps produced in R Studio for the R Script file 'run_analysis.R' to produce the submission file 'TidyData.txt'
 
